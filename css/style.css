@@ -546,66 +546,66 @@ seccionMarcasNE {
     87.5% {transform: scale(1);}
     100% {transform: scale(1);}
     /* fin */}
-    @keyframes marcaDos {
-        /* inicio */
-        0%{transform: scale(1);}
-        12.5% {transform: scale(1);}
-        25% {transform: scale(1.1);}
-        37.5% {transform: scale(1);}
-        50% {transform: scale(1);}
-        62.5% {transform: scale(1);}
-        75% {transform: scale(1);}
-        87.5% {transform: scale(1);}
-        100% {transform: scale(1);}
-        /* fin */}
-        @keyframes marcaTres {
-            /* inicio */
-            0%{transform: scale(1);}
-            12.5% {transform: scale(1);}
-            25% {transform: scale(1);}
-            37.5% {transform: scale(1.1);}
-            50% {transform: scale(1);}
-            62.5% {transform: scale(1);}
-            75% {transform: scale(1);}
-            87.5% {transform: scale(1);}
-            100% {transform: scale(1);}
-            /* fin */}
-            @keyframes marcaCuatro {
-                /* inicio */
-                0%{transform: scale(1);}
-                12.5% {transform: scale(1);}
-                25% {transform: scale(1);}
-                37.5% {transform: scale(1);}
-                50% {transform: scale(1.1);}
-                62.5% {transform: scale(1);}
-                75% {transform: scale(1);}
-                87.5% {transform: scale(1);}
-                100% {transform: scale(1);}
-                /* fin */}
-                @keyframes marcaCinco {
-                    /* inicio */
-                    0%{transform: scale(1);}
-                    12.5% {transform: scale(1);}
-                    25% {transform: scale(1);}
-                    37.5% {transform: scale(1);}
-                    50% {transform: scale(1);}
-                    62.5% {transform: scale(1.1);}
-                    75% {transform: scale(1);}
-                    87.5% {transform: scale(1);}
-                    100% {transform: scale(1);}
-                    /* fin */}
-                    @keyframes marcaSeis {
-                        /* inicio */
-                        0%{transform: scale(1);}
-                        12.5% {transform: scale(1);}
-                        25% {transform: scale(1);}
-                        37.5% {transform: scale(1);}
-                        50% {transform: scale(1);}
-                        62.5% {transform: scale(1);}
-                        75% {transform: scale(1.1);}
-                        87.5% {transform: scale(1);}
-                        100% {transform: scale(1);}
-                        /* fin */}
+@keyframes marcaDos {
+    /* inicio */
+    0%{transform: scale(1);}
+    12.5% {transform: scale(1);}
+    25% {transform: scale(1.1);}
+    37.5% {transform: scale(1);}
+    50% {transform: scale(1);}
+    62.5% {transform: scale(1);}
+    75% {transform: scale(1);}
+    87.5% {transform: scale(1);}
+    100% {transform: scale(1);}
+    /* fin */}
+@keyframes marcaTres {
+    /* inicio */
+    0%{transform: scale(1);}
+    12.5% {transform: scale(1);}
+    25% {transform: scale(1);}
+    37.5% {transform: scale(1.1);}
+    50% {transform: scale(1);}
+    62.5% {transform: scale(1);}
+    75% {transform: scale(1);}
+    87.5% {transform: scale(1);}
+    100% {transform: scale(1);}
+    /* fin */}
+@keyframes marcaCuatro {
+    /* inicio */
+    0%{transform: scale(1);}
+    12.5% {transform: scale(1);}
+    25% {transform: scale(1);}
+    37.5% {transform: scale(1);}
+    50% {transform: scale(1.1);}
+    62.5% {transform: scale(1);}
+    75% {transform: scale(1);}
+    87.5% {transform: scale(1);}
+    100% {transform: scale(1);}
+    /* fin */}
+@keyframes marcaCinco {
+    /* inicio */
+    0%{transform: scale(1);}
+    12.5% {transform: scale(1);}
+    25% {transform: scale(1);}
+    37.5% {transform: scale(1);}
+    50% {transform: scale(1);}
+    62.5% {transform: scale(1.1);}
+    75% {transform: scale(1);}
+    87.5% {transform: scale(1);}
+    100% {transform: scale(1);}
+    /* fin */}
+@keyframes marcaSeis {
+    /* inicio */
+    0%{transform: scale(1);}
+    12.5% {transform: scale(1);}
+    25% {transform: scale(1);}
+    37.5% {transform: scale(1);}
+    50% {transform: scale(1);}
+    62.5% {transform: scale(1);}
+    75% {transform: scale(1.1);}
+    87.5% {transform: scale(1);}
+    100% {transform: scale(1);}
+    /* fin */}
 @keyframes marcaSiete {/* inicio */
     0%{transform: scale(1);}
     12.5% {transform: scale(1);}
@@ -617,18 +617,18 @@ seccionMarcasNE {
     87.5% {transform: scale(1.1);}
     100% {transform: scale(1);}
     /* fin */}
-                            @keyframes marcaOcho {
-                                /* inicio */
-                                0%{transform: scale(1);}
-                                12.5% {transform: scale(1);}
-                                25% {transform: scale(1);}
-                                37.5% {transform: scale(1);}
-                                50% {transform: scale(1);}
-                                62.5% {transform: scale(1);}
-                                75% {transform: scale(1);}
-                                87.5% {transform: scale(1);}
-                                100% {transform: scale(1.1);}
-                                /* fin */}
+@keyframes marcaOcho {
+    /* inicio */
+    0%{transform: scale(1);}
+    12.5% {transform: scale(1);}
+    25% {transform: scale(1);}
+    37.5% {transform: scale(1);}
+    50% {transform: scale(1);}
+    62.5% {transform: scale(1);}
+    75% {transform: scale(1);}
+    87.5% {transform: scale(1);}
+    100% {transform: scale(1.1);}
+    /* fin */}
 /****************************************/
 /******************** Media Queries NUESTRO EQUIPO ********************/
 @media (min-width: 481px) and (max-width: 1023px) {
